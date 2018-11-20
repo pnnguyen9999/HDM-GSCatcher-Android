@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hdmfc</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Hương Đầu Mùa 🌸</string>
+    <string name="nav_header_subtitle">thpt nguyễn huệ - huế confessions</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">(c) PNNguyen 2018</string>
+</resources>
